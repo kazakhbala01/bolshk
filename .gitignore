@@ -1,0 +1,15 @@
+# Local test artifacts
+sim_*.html
+sim_state.json
+test_state.json
+_*.py
+*.local
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local Claude Code settings
+.claude/
